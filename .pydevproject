@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?><pydev_project>
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python interpreter</pydev_property>
+    <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+        <path>/${PROJECT_DIR_NAME}/discussion/neutra</path>
+        <path>/${PROJECT_DIR_NAME}/discussion/pathfinder</path>
+        <path>/${PROJECT_DIR_NAME}/discussion/turnkey_inference_candidate</path>
+        <path>/${PROJECT_DIR_NAME}/spinoffs/inference_gym/inference_gym</path>
+        <path>/${PROJECT_DIR_NAME}/spinoffs/fun_mc/fun_mc</path>
+        <path>/${PROJECT_DIR_NAME}/tensorflow_probability/python</path>
+        <path>/${PROJECT_DIR_NAME}/tensorflow_probability/examples</path>
+        <path>/${PROJECT_DIR_NAME}/tensorflow_probability/substrates</path>
+    </pydev_pathproperty>
+</pydev_project>
